@@ -1,0 +1,15 @@
+img{
+  width: 40px;
+  float: left;
+  margin-right: 20px;
+}
+h1{
+  color: green;
+}
+h2{
+  color: red;
+}
+p{
+  color: blue;
+  font-size: 18px;
+}
